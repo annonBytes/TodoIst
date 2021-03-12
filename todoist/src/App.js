@@ -1,10 +1,12 @@
 import React from 'react'
+import { Header } from './components/layouts/Header.jsx'
+
 
 
 export const App = () => 
    (
     <div className="App">
-        <h1>Hello Bigbytes</h1>
+        <Header />
     </div>
   );
 
