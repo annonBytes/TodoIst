@@ -13,7 +13,8 @@ export const Header = () => {
                 <ul>
                   <li>➕ </li>
                   <li>🍕 </li>
-                  <FaPizzaSlice />
+                  <li>  <FaPizzaSlice /> </li>
+                
                 </ul>
              </div>
          </nav>
